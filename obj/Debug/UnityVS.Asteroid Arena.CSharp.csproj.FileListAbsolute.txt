@@ -1,0 +1,17 @@
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\obj\Debug\UnityVS.Asteroid Arena.CSharp.csprojResolveAssemblyReference.cache
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\obj\Debug\Assembly-CSharp.dll
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\obj\Debug\Assembly-CSharp.pdb
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\Utilisateurs\Dubos\Documents\Unity\Asteroid Arena\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
